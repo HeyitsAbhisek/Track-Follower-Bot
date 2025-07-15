@@ -21,8 +21,7 @@ An autonomous track-following robot that uses IR sensors and a simple control al
 | DC Motors            | 2        | Drive wheels                                        |
 | Wheels               | 2        | 1 normal wheel pair + 1 castor wheel for support    |
 | Power Source         | 1        | 7V rechargeable batteries                           |
-| IR Proximity Sensors | 4 (HW-201: in diamond pattern for track sensing), 
-                         2 (self-soldered: for obstacle detection)|
+| IR Proximity Sensors | 4 (HW-201: in diamond pattern for track sensing) + 2 (self-soldered: for obstacle detection)|
 ---
 
 ## How It Works
